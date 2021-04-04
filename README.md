@@ -1,2 +1,5 @@
 # Dataset-of-infectious-disease
 Dataset of 23 class B notifiable infectious diseases in the mainland of China
+
+DATA AND SOURCES
+ Time-series data for the monthly reported and confirmed cases of 23 class B notifiable infectious diseases in China’s mainland, from April 2004 to September 2020, was obtained from the National Health Commission of China (http://www.nhc.gov.cn/). The dataset is open to the public, reported by the Chinese Centre for Disease Control and Prevention (CDC) each month. These diseases are AIDS (HIV), hepatitis disease (including Hepatitis A virus (HAV), Hepatitis B virus (HBV), Hepatitis C virus (HCV), and Hepatitis E virus (HEV)), Measles, Haemorrhagic fevers, Dengue, and severe dengue, Rabies, Japanese encephalitis, Anthrax, Shigella species or Entamoeba histolytica, Tuberculosis, Typhoid fever & Paratyphoid fever, Pertussis, Neonatal Tetanus, Scarlet fever, Brucellosis, Gonorrhea, Treponema pallidum, Leptospirosis, Schistosomiasis, and Malaria (Table 1, 1st column). The data sampling rate is one point per month (12 time points per year) by the monthly report of the National Health Commission of China.
